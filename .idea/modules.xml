@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DES/DES.iml" filepath="$PROJECT_DIR$/DES/DES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OneTimePad/OneTimePad.iml" filepath="$PROJECT_DIR$/OneTimePad/OneTimePad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Playfair/Playfair.iml" filepath="$PROJECT_DIR$/Playfair/Playfair.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RSA/RSA.iml" filepath="$PROJECT_DIR$/RSA/RSA.iml" />
+    </modules>
+  </component>
+</project>
